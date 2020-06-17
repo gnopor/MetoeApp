@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "MeteoApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath": "/home/gnop/Downloads/android-studio-ide-192.6241897-linux/android-studio/bin/studio.sh" 
+}
